@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/mrmaakun/line-bot-sdk-go/examples/kitchensink",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/line/line-bot-sdk-go/linebot",
+			"Comment": "1.0.0-40-g45c6ba6",
+			"Rev": "45c6ba6104821f9dde1db5ca8886b11d903e1e9e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "5bc3a08dc8042ac11f2752c257a2367c02ba32e8"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context/ctxhttp",
+			"Rev": "5bc3a08dc8042ac11f2752c257a2367c02ba32e8"
+		}
+	]
+}
